@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Крестики Нолики</string>
+    <string name="reset">рестарт</string>
+    <string name="TurnX">очередь X</string>
+    <string name="TurnO">очередь O</string>
+    <string name="WinO">Выиграл O</string>
+    <string name="WinX">Выиграл X</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">tictactoe</string>
+    <string name="reset">reset</string>
+    <string name="TurnO">O\'s Turn</string>
+    <string name="TurnX">X\'s Turn</string>
+    <string name="O" translatable="false">O</string>
+    <string name="X" translatable="false">X</string>
+    <string name="WinO">Win O</string>
+    <string name="WinX">Win X</string>
+</resources>
